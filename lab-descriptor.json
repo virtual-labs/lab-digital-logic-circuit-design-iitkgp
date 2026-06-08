@@ -15,70 +15,70 @@
             "name": "Logic Simplification",
             "short-name": "logic-simplification",
             "repo": "https://github.com/virtual-labs/exp-logic-simplification-iitkgp",
-            "tag": "v2.0.0",
+            "tag": "v3.0.0",
             "deploy": true
         },
         {
             "name": "Combinational Logic Design",
             "short-name": "combinational-logic-design",
             "repo": "https://github.com/virtual-labs/exp-combinational-logic-design-iitkgp",
-            "tag": "v1.0.0",
+            "tag": "v2.0.0",
             "deploy": true
         },
         {
             "name": "Serial and Parallel Adders",
             "short-name": "serial-parallel-adders",
             "repo": "https://github.com/virtual-labs/exp-serial-parallel-adders-iitkgp",
-            "tag": "v1.0.0",
+            "tag": "v2.0.0",
             "deploy": true
         },
         {
             "name": "Edge Triggered Flip-Flop",
             "short-name": "edge-triggered-ff",
             "repo": "https://github.com/virtual-labs/exp-edge-triggered-ff-iitkgp",
-            "tag": "v1.0.0",
+            "tag": "v2.0.0",
             "deploy": true
         },
         {
             "name": "Ripple and Synchronous Counters",
             "short-name": "ripple-synchronous-counters",
             "repo": "https://github.com/virtual-labs/exp-ripple-synchronous-counters-iitkgp",
-            "tag": "v1.0.0",
+            "tag": "v2.0.0",
             "deploy": true
         },
         {
             "name": "Shift Registers",
             "short-name": "shift-registers",
             "repo": "https://github.com/virtual-labs/exp-shift-registers-iitkgp",
-            "tag": "v1.0.0",
+            "tag": "v2.0.0",
             "deploy": true
         },
         {
             "name": "Finite State Machines",
             "short-name": "finite-state-machines",
             "repo": "https://github.com/virtual-labs/exp-finite-state-machines-iitkgp",
-            "tag": "v1.0.0",
+            "tag": "v2.0.0",
             "deploy": true
         },
         {
             "name": "Design of Synchronous FSM",
             "short-name": "design-synchronous-fsm",
             "repo": "https://github.com/virtual-labs/exp-design-synchronous-fsm-iitkgp",
-            "tag": "v1.0.0",
+            "tag": "v2.0.0",
             "deploy": true
         },
         {
             "name": "Digital Comparator",
             "short-name": "digital-comparator",
             "repo": "https://github.com/virtual-labs/exp-digital-comparator-iitkgp",
-            "tag": "v1.0.0",
+            "tag": "v2.0.0",
             "deploy": true
         },
         {
             "name": "Parity Checker / Generator",
             "short-name": "parity-checker-generator",
             "repo": "https://github.com/virtual-labs/exp-parity-checker-iitkgp",
-            "tag": "v1.0.0",
+            "tag": "v2.0.0",
             "deploy": true
         }
     ],
